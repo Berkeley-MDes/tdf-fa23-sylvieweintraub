@@ -3,7 +3,7 @@ Rport 1- Week of 8/19
 This week I used the green laser cutter in Jacobs hall for the first time and had a blast! I signed up for a 30 minute reservation and ended up staying for over 2.5 hours. I started by cutting funky shapes to make earrings, which took quite a few tried to get sizing correct. Next, I moved on to creating a print for my partner's birthday. I found quickly that printing photos that have enough contrast if difficult, and wach large print too about 30 minutes. Finally, I printed a key chain of my dog. All photos found below.
 
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
+<img width="200" alt="Cool Phone Stand made of rocks" src="[https://github.com/Berkeley-MDes/tdf-fa23-sylvieweintraub/blob/main/IMG_5674.HEIC]">
 
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
