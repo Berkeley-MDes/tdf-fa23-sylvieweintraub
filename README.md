@@ -1,4 +1,4 @@
-# Report 1- Week of 8/19 #
+# Report 1- Week of 8/29 #
 
 This week I used the green laser cutter in Jacobs hall for the first time and had a blast! I signed up for a 30 minute reservation and ended up staying for over 2.5 hours. I started by cutting funky shapes to make earrings, which took quite a few tried to get sizing correct.
 
