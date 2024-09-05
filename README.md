@@ -5,10 +5,10 @@ This week I used the green laser cutter in Jacobs hall for the first time and ha
 <img width="200" alt="First Earring Attempt" src="https://github.com/user-attachments/assets/f3d13715-6af0-4803-97ab-8d14e8ea11f3">
 <img width="200" alt="Many Earring Attempts" src="https://github.com/user-attachments/assets/11925d98-9b8d-44ea-95b0-4344c4455570">
 
-Next, I moved on to creating a print for my partner's birthday. I found quickly that printing photos that have enough contrast is difficult and takes a lot of trial and error. The photo on the left was my first attempt with standard etch settings. The right photo is my second and final attempt after I used lightroom to adjust contrast using masks to make the subjects pop and increased the power of the laser cutter etching by 20%.
+Next, I moved on to creating a print for my partner's birthday. I found quickly that printing photos that have enough contrast is difficult and takes a lot of trial and error. The photo on the left was my first attempt with standard etch settings. The right photo is my second and final attempt after I used lightroom to adjust contrast using masks to make the subjects pop and increased the power of the laser cutter etching by 20%. Both prints are ~8x10 inches and took ~30 minutes to print.
 
-<img width="200" alt="Many Earring Attempts" src="https://github.com/user-attachments/assets/6c0bca13-21a3-4811-8c21-ff9b7ffcf923">
-<img width="200" alt="Many Earring Attempts" src="https://github.com/user-attachments/assets/527558ad-ee0b-47e7-84e2-c4bf5afa9211">
+<img width="200" alt="Many Earring Attempts" src="https://github.com/user-attachments/assets/c4e1c46a-8f2b-4827-b025-9de8afead954">
+<img width="200" alt="Many Earring Attempts" src="https://github.com/user-attachments/assets/b33b1847-a07c-4c38-8a80-cd094883c49f">
 
 Finally, I printed a key chain of my dog. I did not stick around long enough to try again with better contrast setting, but I plan to go back in again and redo this one.
 
