@@ -1,3 +1,8 @@
+Rport 1- Week of 8/19
+
+This week I used the green laser cutter in Jacobs hall for the first time and had a blast! I signed up for a 30 minute reservation and ended up staying for over 2.5 hours. I started by cutting funky shapes to make earrings, which took quite a few tried to get sizing correct. Next, I moved on to creating a print for my partner's birthday. I found quickly that printing photos that have enough contrast if difficult, and wach large print too about 30 minutes. Finally, I printed a key chain of my dog. All photos found below.
+
+
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
